@@ -1,0 +1,6 @@
+track_id,name,artists,album,duration_ms,popularity,explicit,genre
+1,Song A,Artist 1,Album X,210000,80,False,pop
+2,Song B,Artist 2,Album Y,180000,65,False,rock
+3,Song C,Artist 1,Album Z,240000,90,True,pop
+4,Song D,Artist 3,Album W,200000,40,False,mpb
+5,Song E,Artist 4,Album V,150000,55,False,funk
